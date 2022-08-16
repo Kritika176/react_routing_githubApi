@@ -1,0 +1,22 @@
+.pageBox{
+        width: 40%;
+        height: 20%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-around;
+}
+
+.button{
+    width: 10%;
+    height: 90%;
+    border: 1px solid black;
+    background-color: gainsboro;
+    text-align: center;
+    padding: 5px ;
+    margin-bottom: 10px;
+}
+.button:hover{
+    background-color: rgb(5, 114, 114);
+    color: white;
+    cursor: pointer;
+}

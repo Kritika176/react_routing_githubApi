@@ -1,0 +1,18 @@
+.itemBox{
+ padding: 12px;
+ text-align: center;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+ border-radius: 5px;
+}
+
+.image{
+    width:120px;
+    height: 120px;
+   
+    
+}
+.count{
+    display: flex;
+    width:  100%;
+    justify-content: space-between;
+}
